@@ -76,9 +76,9 @@ I’m a passionate **Mobile Developer** specializing in **native Android develop
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your link)*
-- 📬 Email: *(Add your email)*
-- 💻 Portfolio: *(Add your portfolio link if available)*
+- 💼 [LinkedIn](www.linkedin.com/in/yazan-alawneh-536a02287) *(Add your link)*
+- 📬 Email: *yazanalawneh.999@gmail.com*
+- 💻 Portfolio: *([portfolio](https://yazan-alawneh999.github.io/yazan-website))*
 
 ---
 
