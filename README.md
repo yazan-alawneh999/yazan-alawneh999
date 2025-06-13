@@ -12,7 +12,7 @@ I’m a passionate **Mobile Developer** specializing in **native Android develop
 - ☁️ Firebase Integration (Auth, Realtime Database)
 - 🗄️ SQL Server Developer
 - 🧪 Espresso & Mockito for UI and Integration Testing
-- 🧹 Clean Architecture | SOLID Principles | MVVM Pattern
+- 🧹 Clean Architecture | SOLID Principles | MVVM,MVI Pattern
 - 🎯 Focused on **responsive design**, **lazy loading**, and **smooth user experience**
 - 🌱 Currently expanding skills in Angular & cross-functional mobile tooling
 - 🤝 Looking for opportunities to build impactful, production-ready mobile apps
