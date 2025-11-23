@@ -7,6 +7,7 @@ I’m a passionate **Mobile Developer** specializing in **native Android develop
 ## 🛠️ About Me
 
 - 📱 Android Native Developer (Java & Kotlin)
+- 📱 Platform Developer CMP(Compose Multi Platform)
 - ⚛️ React Native Developer
 - 🔄 RxJava Enthusiast
 - ☁️ Firebase Integration (Auth, Realtime Database)
