@@ -10,7 +10,7 @@ I’m a passionate **Mobile Developer** specializing in **native Android develop
 - 📱 Platform Developer CMP(Compose Multi Platform)
 - ⚛️ React Native Developer
 - 🔄 RxJava Enthusiast
-- ☁️ Firebase Integration (Auth, Realtime Database)
+- ☁️ Firebase Integration (Auth, Realtime Database, Analytics, and Crashlytics)
 - 🗄️ SQL Server Developer
 - 🧪 Espresso & Mockito for UI and Integration Testing
 - 🧹 Clean Architecture | SOLID Principles | MVVM,MVI Pattern
